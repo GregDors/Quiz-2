@@ -21,8 +21,6 @@ public class Tuition {
 		}
 		
 		System.out.printf("The final cost for tuition after 4 years is $%.2f%n " , total);
-
-
 	}
 
 }
